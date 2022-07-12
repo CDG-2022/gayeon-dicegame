@@ -1,4 +1,4 @@
-package com.dicegame;
+package com.dicegame.dice;
 
 public class FraudDice extends Dice{
     private int mode = 0; // 0: normal, 1: weak, 2: strong
@@ -21,6 +21,7 @@ public class FraudDice extends Dice{
             }
             else flag = false;
         }
+        flag = true;
         return diceNum;
     }
 }

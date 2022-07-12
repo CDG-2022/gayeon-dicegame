@@ -1,4 +1,6 @@
-package com.dicegame;
+package com.dicegame.player;
+
+import com.dicegame.dice.Dice;
 
 public class Player {
     private String name;

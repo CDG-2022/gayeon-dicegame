@@ -1,4 +1,4 @@
-package com.dicegame;
+package com.dicegame.dice;
 
 import java.util.Random;
 
