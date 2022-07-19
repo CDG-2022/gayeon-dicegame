@@ -29,8 +29,8 @@ public class Judge {
 
     private void oneRound() {
         for (Player player : playerList) {
-            if (player instanceof FraudPlayer) ((FraudPlayer) player).sneaky();
             player.play();
+            if (player instanceof FraudPlayer) ((FraudPlayer) player).sneaky();
         }
     }
 
