@@ -16,7 +16,9 @@ public class FraudDice extends Dice{
     public int randNum() {
         int diceNum = super.randNum();
         while (flag) {
-            if ((mode == 1 && diceNum <= 5) || (mode == 2 && diceNum >= 2)) {
+            if (mode == 1 && diceNum >= 5) { // weak
+                diceNum = super.randNum();
+            } else if (mode == 2 && diceNum <= 2) { // strong
                 diceNum = super.randNum();
             }
             else flag = false;

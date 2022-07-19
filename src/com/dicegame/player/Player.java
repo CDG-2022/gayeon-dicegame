@@ -23,4 +23,8 @@ public class Player {
     public int getScore() {
         return this.score;
     }
+
+    public void play() {
+        score += dice.randNum();
+    }
 }

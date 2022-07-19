@@ -6,13 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="45b30663-8e05-49e5-8ff2-bbae684908d5" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dicegame/dice/Dice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicegame/dice/Dice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/dicegame/dice/FraudDice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicegame/dice/FraudDice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/dicegame/judge/Judge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicegame/judge/Judge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dicegame/main/GameMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicegame/main/GameMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dicegame/player/FraudPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicegame/player/FraudPlayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dicegame/player/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicegame/player/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dicegame/recorder/Recorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dicegame/recorder/Recorder.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="GameMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dicegame.main.GameMain" />
@@ -60,7 +55,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.com.dicegame.GameMain" />
+        <item itemvalue="Application.GameMain" />
       </list>
     </recent_temporary>
   </component>
@@ -72,7 +67,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657371730235</updated>
-      <workItem from="1657371732742" duration="30456000" />
+      <workItem from="1657371732742" duration="34819000" />
+      <workItem from="1657976217895" duration="1214000" />
+      <workItem from="1658150704867" duration="9600000" />
     </task>
     <servers />
   </component>
